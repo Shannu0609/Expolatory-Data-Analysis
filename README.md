@@ -1,1 +1,1 @@
-# Expolatory-Data-Analysis
+# Expolotory-Data-Analysis
